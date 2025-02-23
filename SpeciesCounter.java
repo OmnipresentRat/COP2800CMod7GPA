@@ -1,10 +1,7 @@
 // SpeciesCounter.java
-// D. Singletary
-// 2/22/25
+//
+// 
 // Encapsulates species data and related operations
-
-//import java.io.*;
-//import java.util.*;
 
 public class SpeciesCounter {
     private static final String FILE_NAME = "PalmerPenguins.csv";

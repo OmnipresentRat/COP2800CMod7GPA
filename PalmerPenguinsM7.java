@@ -1,6 +1,6 @@
 // PalmerPenguinsM7.java
-// D. Singletary
-// 2/22/25
+//
+//
 // Refactored Palmer Penguins analysis using object-oriented approach
 
 public class PalmerPenguinsM7 {
